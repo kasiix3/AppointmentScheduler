@@ -110,3 +110,27 @@ J.   Provide the ability to track user activity by recording timestamps for user
  
 
 K.   Demonstrate professional communication in the content and presentation of your submission.
+
+Sign In Form
+![SIGNIN](https://user-images.githubusercontent.com/87586209/176087417-57c7830e-b7d8-4815-8791-ddb528e2b41d.png)
+Home
+![HomePage](https://user-images.githubusercontent.com/87586209/176087463-3e4cc569-2843-4fcd-8891-004817de8ffd.png)
+New Appointment
+![CreateAppointment](https://user-images.githubusercontent.com/87586209/176087547-9259dbea-4b89-4dfe-b6fc-270f188799bd.png)
+Update Appointment
+![UpdateAppointment](https://user-images.githubusercontent.com/87586209/176087576-2ac3833f-39bc-49c4-a551-9c4deb6f0cb3.png)
+New Customer
+![NewCustomer](https://user-images.githubusercontent.com/87586209/176087630-e73c8aff-ce37-444d-96c7-887e78cf2a03.png)
+Update Customer
+![UpdateCustomer](https://user-images.githubusercontent.com/87586209/176087640-701e06bd-a757-4a0e-a9dc-c4da89af8d73.png)
+Log Report
+![LogReport](https://user-images.githubusercontent.com/87586209/176087653-36bd0dcd-0a03-4cdb-ace4-e4accf0e7088.png)
+Consultant Report
+![ConsultantSchedule](https://user-images.githubusercontent.com/87586209/176087678-4815d540-3cd2-45a0-ac7d-6ef2abc394cf.png)
+Active Customers Report
+![ActiveCustomers](https://user-images.githubusercontent.com/87586209/176087690-8ecff849-3a77-40d4-918d-270e4dabe9a5.png)
+Appointments by Type
+![AppointmentsReport](https://user-images.githubusercontent.com/87586209/176087723-c5dede9b-9929-4106-8bd7-069d61d0c6b7.png)
+
+
+
