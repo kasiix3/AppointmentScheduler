@@ -115,6 +115,10 @@ Sign In Form
 
 ![SIGNIN](https://user-images.githubusercontent.com/87586209/176087417-57c7830e-b7d8-4815-8791-ddb528e2b41d.png)
 
+Sign In Form (French)
+
+![SignInFrench](https://user-images.githubusercontent.com/87586209/176089120-366a4cc8-e5b5-41f3-a058-cfbdbcb9a611.png)
+
 Home
 
 ![HomePage](https://user-images.githubusercontent.com/87586209/176087463-3e4cc569-2843-4fcd-8891-004817de8ffd.png)
