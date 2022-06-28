@@ -117,7 +117,7 @@ Sign In Form
 
 Sign In Form (French)
 
-![SignInFrench](https://user-images.githubusercontent.com/87586209/176089120-366a4cc8-e5b5-41f3-a058-cfbdbcb9a611.png)
+![singinfrench](https://user-images.githubusercontent.com/87586209/176089253-1c6a0bc0-dc2a-4574-a272-cbcfa0148e58.png)
 
 Home
 
